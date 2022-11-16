@@ -1,0 +1,35 @@
+/* .sidebar , .header {
+    background-image: url('/ODC Back end/08/assets/img/back1.jpg');
+    background-size: cover;
+  } */
+.margin-admin{
+    margin-left: 150px;
+}
+.margin-lawyer{
+    margin-left: 140px;
+}
+.margin-role{
+    margin-left: 165px;
+}
+.margin-articale{
+    margin-left: 140px;
+}
+.margin-pro{
+    margin-left: 10px;
+}
+
+.padingIcon{
+    padding-left: 20px;
+}
+.login-icon{
+    margin-right: 20px;
+}
+.image-header{
+    margin-right: 20px;
+}
+.card-img-top{
+    height: 500px;
+}
+tr:hover{
+    background-color: rgb(119, 182, 196);
+}
